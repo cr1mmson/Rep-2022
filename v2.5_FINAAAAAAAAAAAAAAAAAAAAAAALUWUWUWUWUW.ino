@@ -28,11 +28,11 @@ int humidity_g;
 int pulse=0;
 float gass;
 
-#define IO_USERNAME  "crimm"
-#define IO_KEY       "aio_HlGr66wZdRYHkiGENlcU2CPNaVWp"
+#define IO_USERNAME  "****"
+#define IO_KEY       "****"
 
-#define WIFI_SSID      "CABELNET-F894"
-#define WIFI_PASS      "C@s@2020"
+#define WIFI_SSID      "****"
+#define WIFI_PASS      "****"
 
 
 unsigned long intervalo=1800000;
