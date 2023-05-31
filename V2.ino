@@ -70,7 +70,7 @@ pulse=1;
 if(pulse==1){
  for(int i=1;i<1;i++){
      waterf();
-       Serial.println("motor funcionando");
+       Serial.println("motor fwd");
       Serial.println(i);
       delay(1000);
       
