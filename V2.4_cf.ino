@@ -24,11 +24,11 @@ SI1133 uv = SI1133();
 int humidity_g;
 int pulse=0;
 
-#define IO_USERNAME  "crimm"
-#define IO_KEY       "aio_WjsP44Itfa09MVARTIRuGWB9AyWB"
+#define IO_USERNAME  "****"
+#define IO_KEY       "****"
 
-#define WIFI_SSID      "CABELNET-F894"
-#define WIFI_PASS      "C@s@2020"
+#define WIFI_SSID      "****"
+#define WIFI_PASS      "****"
 
 
 unsigned long intervalo=1800000;
