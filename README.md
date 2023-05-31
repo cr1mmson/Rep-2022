@@ -1,2 +1,2 @@
-# FGC-2022
+# 2022 rep
 Repositorio porque si uwuowounuuvuuguu.u
