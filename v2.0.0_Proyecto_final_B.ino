@@ -35,11 +35,11 @@ int servo1 = 2;
 
 Motor motor = Motor(BIN1, BIN2, PWMB, offsetB, 0, 5000, 8, 2);
 
-#define IO_USERNAME  "crimm"
-#define IO_KEY       "aio_tjur58Miv8dEWJnEhCisJvk9dbBF"
+#define IO_USERNAME  "****"
+#define IO_KEY       "****"
 
-#define WIFI_SSID      "CABELNET-F894"
-#define WIFI_PASS      "C@s@2020"
+#define WIFI_SSID      "****"
+#define WIFI_PASS      "****"
 
 AdafruitIO_WiFi io(IO_USERNAME, IO_KEY, WIFI_SSID, WIFI_PASS);
 
